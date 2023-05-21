@@ -22,6 +22,8 @@
             <img src="/images/icon/shake.png" alt="">
         </div>
 
+        <p>久しぶり</p>
+
 
         <div class="avator">
             <p class="avator-comment">
