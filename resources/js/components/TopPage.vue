@@ -23,6 +23,7 @@
         </div>
 
         <p>久しぶり</p>
+        <p>まじやで</p>
 
 
         <div class="avator">
