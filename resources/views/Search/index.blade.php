@@ -8,7 +8,7 @@
 @section('header-title', '検索')
 
 @section('content')
-
+<p>悲しみは肉だ</p>
     <form action="/search" method="get" class="form">
         @csrf
         <p>検索したいキーワードを入力してください(※1単語)</p>
