@@ -1,0 +1,55 @@
+#content {
+    margin-top: 100px;
+    width: 100%;
+}
+
+.btns {
+    margin-bottom: 10px;
+}
+
+#logined-user-cnt {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.on {
+    display: block;
+}
+
+.off {
+    display: none;
+}
+
+.pagination {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+
+/* デザインB（タブレット） */
+@media screen and (min-width: 600px) {
+    /* body {
+        position: relative;
+    } */
+
+    #app {
+        width: 375px;
+        margin: 0 auto;
+    }
+}
+
+
+/* デザインC(PC) */
+@media screen and (min-width: 1025px) {
+    /* body {
+        position: relative;
+    } */
+
+    #app {
+        width: 375px;
+        margin: 0 auto;
+    }
+}
