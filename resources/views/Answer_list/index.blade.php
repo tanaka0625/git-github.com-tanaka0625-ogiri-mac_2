@@ -14,6 +14,7 @@
     <div class="items-title">
         <h3>{{$itemsTitle}}</h3>
     </div>
+    <h1>おひさ</h1>
 
 
     <div class="btns">
