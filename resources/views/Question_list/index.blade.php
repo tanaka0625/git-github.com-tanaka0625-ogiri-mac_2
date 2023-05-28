@@ -3,7 +3,6 @@
 @section('fileLink')
 @endsection
 @section('title', 'お題一覧')
-<p>今年はやる</p>
 
 
 
