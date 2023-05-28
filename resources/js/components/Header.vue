@@ -73,7 +73,7 @@ export default {
         transform: translate(-50%);
         margin: auto;
         background-color:yellow;
-        z-index: 1;
+        z-index: 4;
         width: 100%;
     }
 
