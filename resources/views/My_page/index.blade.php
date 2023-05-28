@@ -8,7 +8,6 @@
 @section('header-title', 'マイページ')
 
 @section('content')
-<p>ポテチ食べなさい</p>
 
 <button class="btn btn-dark" onclick="location.href=' {{ url('/setting') }} '">設定</button>
 <user-info v-if="{{Js::from($page)}} == 1" :user="{{Js::from(Auth::user())}}" :point="{{Js::from($point)}}" :avator-number="{{$avatorNumber}}"></user-info>

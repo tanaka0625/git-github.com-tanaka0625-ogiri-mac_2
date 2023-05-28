@@ -8,7 +8,6 @@
 @section('header-title', $user->name)
 
 @section('content')
-<p>お前は誰だ</p>
 
 <user-info v-if="{{Js::from($page)}} == 1" :user="{{Js::from($user)}}" :point="{{Js::from($point)}}" :avator-number="{{$avatorNumber}}"></user-info>
 
