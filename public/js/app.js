@@ -6783,7 +6783,6 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
-//
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = ({});
 
 /***/ }),
@@ -33815,10 +33814,6 @@ var staticRenderFns = [
         _vm._v(" "),
         _c("img", { attrs: { src: "/images/icon/shake.png", alt: "" } }),
       ]),
-      _vm._v(" "),
-      _c("p", [_vm._v("久しぶり")]),
-      _vm._v(" "),
-      _c("p", [_vm._v("まじやで")]),
       _vm._v(" "),
       _c("div", { staticClass: "avator" }, [
         _c("p", { staticClass: "avator-comment" }, [
